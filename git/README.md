@@ -1,2 +1,1 @@
-# holbertonschool-zero_day
-git update_script
+# holbertonschool-zero_day:
